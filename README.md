@@ -14,15 +14,12 @@
 🌷 You can Deploy Easily Fork repo and Give Start 🌷
 
 ## 🥀 Bot Deploy On Workflow / (KAALI LINUX)
- At 1st Import This Repo Then Input All Value In Bikash.py || Then Proceed Kaali Linux Value Or Ect.
+ At 1st Import This Repo Then Input All Value In Env || Then Proceed Kaali Linux Value Or Ect.
 
 ## 🥀 Kaali Linux Tutorial
 
 [Kaali Linux](https://youtu.be/_nZT5lhcL8U)
 
-## 🥀 Chat Bot Deploy Tutorial On Kaali Linux 
-
-[Kaali Linux](https://youtu.be/fFRxAG1mCVU)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
 [𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
