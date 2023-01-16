@@ -1,9 +1,9 @@
 {
-    "name": "Genius-Userbot",
+    "name": "BGT STRING BOT",
     "logo": "https://te.legra.ph/file/ceee32999a8250a1f7ebb.png",
     "description": "An Advanced Premium Music & user Bot For Telegram ID.",
     "keywords": ["music", "voice chat", "userbot"],
-    "repository": "https://github.com/GeniusBoi/Genius-Userbot",
+    "repository": "https://github.com/BIKASHHALDERNEW/BGTSTRINGBOT",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -14,8 +14,8 @@
             "description": "Your App Hash",
             "required": true
         },
-        "STRING_SESSION": {
-            "description": "Pyrogram String Session",
+        "MUST_JOIN": {
+            "description": "INPUT CHANNEL USERNAME WITHOUT @ ",
             "required": true
         },
         "BOT_TOKEN": {
@@ -28,12 +28,7 @@
         },
         "OWNER_ID": {
             "description": "Your User Id",
-            "required": true
-        },
-        "LOG_GROUP_ID": {
-            "description": "Your Log Group ID",
-            "required": true
-        }
+            "required": true   
     },
     "buildpacks": [
     {
